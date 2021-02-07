@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'database',
+	'hostname' => 'localhost',
 	'username' => 'ci',
 	'password' => 'ci',
 	'database' => 'ci_app',
